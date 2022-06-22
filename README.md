@@ -23,7 +23,7 @@ installation
 
 ## Credits
 
-Sachmilan Singh, Sadegh Mahboobifar
+Sachmilan Singh, Sadegh Mahboobifar(loked at his code at used some of it)
 
 ## Website Link
 
