@@ -36,4 +36,4 @@ It is extreamly user friendly, all you need is a working device and you are all 
 
 ## How to contribute
 
-You can always look at the JavaScript code which I use. I trust myself completely; however, not a single man on this earth is perfect, so if you find a better way to code the Note Taker, or find any fault in my code, feel free to contact me on Linkedin, Github and Gmail, all you have to do is to search my name- Sachmilan Singh.
+You can always look at the JavaScript code which I use. I trust myself completely; however, not a single man on this earth is perfect, so if you find a better way to code the Note Taker Application, or find any fault in my code, feel free to contact me on Linkedin, Github and Gmail, all you have to do is to search my name- Sachmilan Singh.
